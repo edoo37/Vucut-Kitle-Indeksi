@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">VucutKitle</string>
+    <string name="height">BOY:</string>
+    <string name="next">ILERI</string>
+    <string name="weight">KILO:</string>
+    <string name="bmi">VKI:</string>
+    <string name="normalWeightDetails">Normal Vücut kitle indeksine sahipsiniz. Yemek yeme alışkanlıklarınızı devam ettirererek formunuzu koruyabilirsniz. \n Sağlıklı Günler!!!</string>
+    <string name="underWeightDetails">Uzunluğunuza göre normal kiloda değilsiniz. Zayıflık hastalık durumunu oluşturan istenmeyen bir durumdur. Boyunuza göre normal kilo seviyesine ulaşmalı
+        ve beslenme alışkanlıklarınıza daha özen göstermelisiniz. \n Sağlıklı Günler!!!</string>
+    <string name="overWeightDetails">Uzunluğunuza göre kilonuz fazla. Fazla kilolu olmak sağlık durumunu tehlikeye sokabilecek istenmeyen bir durumdur.
+        Spor yaparak ve yeme alışkanlıklarınızı yeniden düzenleyerek sağlıklı vücut ağırlığına ulaşabilirsiniz.  \n Sağlıklı Günler!!!</string>
+    <string name="zeroMetres">0cm</string>
+    <string name="zeroKilogram">0kg</string>
+    <string name="zero">0</string>
+</resources>
